@@ -18,7 +18,7 @@ Supply the main thread that runs the table logics, the main thread that runs the
 # Screen Shots
 | | |
 |:-------------------------:|:-------------------------:|
-|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/cdaa227c-057f-4e12-8cd6-b5034669f58d" alt="SreenShot1" >|<img style="max-width:200px; width:100%"  src="https://user-images.githubusercontent.com/101994161/210243154-e6b83830-a6ad-4c05-8855-7c7bc95fa58a.png" alt="SreenShot2" >
+|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/cdaa227c-057f-4e12-8cd6-b5034669f58d" alt="SreenShot1" >|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/3ad72dbb-3996-4152-b65d-9687cb3eebbe" alt="SreenShot2" >
 
 
 
