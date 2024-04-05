@@ -17,7 +17,7 @@ Supply the main thread that runs the table logics, the main thread that runs the
 # How To Play
 
 1. At the bottom of the config.properties file, we define the 12 buttons for 2 human players as shown in the image:
-<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/572e9362-e1a1-4cba-b214-36ca5542ecdf" alt="SreenShot1" >
+<img style="max-width: 150px; height: auto;"  src="https://github.com/omer2080/set-game/assets/118855264/572e9362-e1a1-4cba-b214-36ca5542ecdf" alt="SreenShot1" >
 The first player plays with the 12 red buttons and the second player with the 12 blue buttons. Each key represents a slot.
 2. When you press 3 different buttons, if the 3 form a set, you receive a point. Otherwise, you incur a penalty for a few seconds (as defined in the settings).
 3. If you press incorrectly, first press again the slots you pressed and wish to unpress.
@@ -32,7 +32,7 @@ The first player plays with the 12 red buttons and the second player with the 12
 # Screen Shots
 | | |
 |:-------------------------:|:-------------------------:|
-|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/cdaa227c-057f-4e12-8cd6-b5034669f58d" alt="SreenShot1" >|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/3ad72dbb-3996-4152-b65d-9687cb3eebbe" alt="SreenShot2" >
+|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/cdaa227c-057f-4e12-8cd6-b5034669f58d" alt="SreenShot2" >|<img style="max-width:200px; width:100%"  src="https://github.com/omer2080/set-game/assets/118855264/3ad72dbb-3996-4152-b65d-9687cb3eebbe" alt="SreenShot3" >
 
 
 
