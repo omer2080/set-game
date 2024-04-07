@@ -10,12 +10,18 @@ Supply the main thread that runs the table logics, the main thread that runs the
 
 # Installing and Running the Game
 
-1. Download all of the files.
-2. Navigate to "set-game-main\target\classes\config.properties" to change the game settings (number of human players, number of computer players, clock settings, etc). Note: Modify config.properties, not config_Original.properties.
-3. Navigate to "set-game-main\src\main\java\bguspl\set\Main.java" and run the project.
+1. Make sure Java is installed (1.8 or later).
+2. Download all of the files.
+3. Navigate to "set-game-main\target\classes\config.properties". You can change the game settings as you wish:
+  - HumanPlayers - Amount of human players.
+  - ComputerPlayers - Amount of computer players.
+  - Hints - True/False - show legal sets currently visible on the table.
+  - PlayerNames - players names, separated by `", "` - example is given.
+    
+    Note: Modify config.properties, not config_Original.properties.
+4. Navigate to "set-game-main\src\main\java\bguspl\set\Main.java" and run the project.
 
 # How To Play
-
 1. At the bottom of the config.properties file, we define the 12 buttons for 2 human players as shown in the image:
 <img style="max-width:200px; width:50%"  src="https://github.com/omer2080/set-game/assets/118855264/572e9362-e1a1-4cba-b214-36ca5542ecdf" alt="SreenShot1" >
 
@@ -28,7 +34,7 @@ The first player plays with the 12 red buttons and the second player with the 12
 # Main features 
 1.	Use locks and atomic variables to manage the threads. 
 2.	Employ synchronization concepts for a "Fair" game.
-3.	FFully support human players and computer players.
+3.	Fully support human players and computer players.
 
 
 # Screen Shots
